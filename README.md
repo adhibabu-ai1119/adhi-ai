@@ -1,2 +1,0 @@
-# adhi-ai
-Hello world
